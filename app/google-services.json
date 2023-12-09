@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "513658757037",
+    "firebase_url": "https://proyectanaciostomas-default-rtdb.firebaseio.com",
+    "project_id": "proyectanaciostomas",
+    "storage_bucket": "proyectanaciostomas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513658757037:android:6fc9e5b8d3a98db7100b24",
+        "android_client_info": {
+          "package_name": "cl.proyetnacionalsasdsntotomas.proyectonaciosato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQYfs16kEl7givAH5WndB4z5HnevtrXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
